@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    color: #000;
+}
+.active-link {
+    color: #25C2F2;
+}
+
+.name-container {
+    margin-top: 50px;
+}
+.navbar-container {
+    margin-top: 50px;
+}
+.bio-container, .portfolio-container {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.bio-container p {
+    font-size: 1.3em;
+    font-weight: 300;
+}
